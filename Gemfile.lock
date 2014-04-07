@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    faraday (0.8.8)
+      multipart-post (~> 1.2.0)
+    minitest (5.0.7)
+    multi_json (1.8.0)
+    multipart-post (1.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  faraday
+  minitest
+  multi_json
